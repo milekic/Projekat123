@@ -1,4 +1,4 @@
-nova linija f3
+nova linija f3 izmjena u drugoj grani!
 treca linija
 cetvrta linija
 nova linija na master grani
