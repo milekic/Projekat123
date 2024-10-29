@@ -2,4 +2,5 @@ nova linija f3 izmjena u drugoj grani!
 treca linija izmjena u master grani nakon konflikta
 cetvrta linija
 nova linija na master grani izmjena za konflikt sa petom granom
+nova
 nova linija grana cetri
